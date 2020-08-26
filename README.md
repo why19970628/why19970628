@@ -2,12 +2,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="reily.app | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />][csdn]
-<!-- [<img align="left" alt="zhigang1992 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="weixin_43746433 | CSDN" width="22px" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1" />][csdn]
+
 
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=why19970628&show_icons=true&hide_border=true" />
 
-[website]: https://reily.app
 [csdn]: https://blog.csdn.net/weixin_43746433
