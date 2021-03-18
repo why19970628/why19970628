@@ -1,5 +1,4 @@
-### Hi there, I'm why 👋
-themetheme<div align="center">
+<div align="center">
 	<br>
 	<a href="https://kubernetes.io/docs/home/" target="_blank">
 		<img src="https://raw.githubusercontent.com/yangchuansheng/yangchuansheng/master/assets/header.svg" width="800" height="400">
@@ -7,7 +6,7 @@ themetheme<div align="center">
 	<br>
 </div>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/why19970628?label=follow&style=social)](https://github.com/why19970628)
+[![GitHub Thaiane](https://img.shields.io/github/followers/why19970628?label=follow&style=social)](https://github.com/why19970628)👋
 
 <p align="center"> 
   Visitor count<br>
