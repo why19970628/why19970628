@@ -1,21 +1,9 @@
-<div align="center">
-	<br>
-	<a href="https://kubernetes.io/docs/home/" target="_blank">
-		<img src="https://raw.githubusercontent.com/yangchuansheng/yangchuansheng/master/assets/header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/why19970628?label=follow&style=social)](https://github.com/why19970628)👋
+🎉 Welcome to my GitHub profile!
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
-</p>
+👨🏻‍💻 I'm why - a Go/Python developer 
 
-
-Currently working on [turingsenseai](https://www.turingsenseai.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and backend dev <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://blog.csdn.net/weixin_43746433) or you can follow Github:
-
+🏪 Currently working on [turingsenseai](https://www.turingsenseai.com/) 
 
 
 
@@ -65,3 +53,11 @@ Currently working on [turingsenseai](https://www.turingsenseai.com/) <img src="h
 
 More on 👉
 [csdn](https://blog.csdn.net/weixin_43746433)
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
+</p>
+
