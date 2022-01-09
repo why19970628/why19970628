@@ -1,10 +1,12 @@
-## 
+## Full Stack Developping 👋
+
 
 🎉 Welcome to my GitHub profile!
 
-👨🏻‍💻 I'm why - a Go/Python developer 
+👨🏻‍💻 I'm why - a Go/Python developer, devops
 
 
+---
 
 #### 🛠 Tech Stack and Tools
 
@@ -22,13 +24,14 @@
 
 
 
-More on 👉
-[csdn](https://blog.csdn.net/weixin_43746433)
 
+
+### ❤️ Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=why19970628&show_icons=true&theme=vue&hide_title=true)
 
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
 </p>
-
