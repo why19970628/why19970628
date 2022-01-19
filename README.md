@@ -12,7 +12,7 @@
 
 | End | Stack |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=Vue.js&logoColor=white) |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=Vue.js&logoColor=white) ![Node.JS](https://img.shields.io/badge/-Node.JS-fff?&logo=Node.JS) ![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript&logoColor=blue) |
 | ![Backend](https://img.shields.io/badge/-Backend-black?style=flat) | ![Golang](https://img.shields.io/badge/-Golang-F0F8FF?style=flat&logo=go)  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) ![lua](https://img.shields.io/badge/-lua-0170fe?style=flat&logo=lua)  |
 | ![Devops](https://img.shields.io/badge/-Devops-black?style=flat) | ![GitlabCi](https://img.shields.io/badge/-GitlabCi-orange?style=flat&logo=gitlab&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![k8s](https://img.shields.io/badge/-Kubernetes-CEF1D1?style=flat&logo=Kubernetes)  |
 | ![IDE](https://img.shields.io/badge/-IDE-black?style=flat) | ![Vscode](https://img.shields.io/badge/-Vscode-blue?style=flat&logo=VisualStudioCode ) ![Goland](https://img.shields.io/badge/-Goland-3a3a3a?style=flat&logo=goland) ![Vim](https://img.shields.io/badge/-VIM-007ACC?style=flat&logo=vim) |
@@ -30,6 +30,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=why19970628&show_icons=true&theme=vue&hide_title=true)
 
+
+
+## Let's connect 
+<p align="center">
+	<a href="mailto:why967177569@163.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/why19970628"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
