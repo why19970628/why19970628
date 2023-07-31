@@ -5,7 +5,13 @@
 
 👨🏻‍💻 I'm why - a full-stack developer, devops engineer
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+Welcome+to+My+Profile!;I'm+why,+a+full+stack+developer,+Devops+engineer;;)](https://git.io/typing-svg)
 
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<!-- <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 ---
 
 #### 🛠 Tech Stack and Tools
@@ -30,7 +36,6 @@
 ### ❤️ Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=why19970628&show_icons=true&theme=vue&hide_title=true)
-
 
 
 ## Let's connect 
